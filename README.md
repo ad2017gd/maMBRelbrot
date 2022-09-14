@@ -1,6 +1,7 @@
 # maMBRelbrot
 ## how to use
 run `make`
+
 qemu will launch and BOOT.BIN will spawn
 
 
