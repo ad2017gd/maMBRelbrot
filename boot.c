@@ -15,7 +15,7 @@ float zoom = 1;
 void noret __attribute__((section("__start"))) main(){
 
 
-    unsigned char* s = "ad2017.dev/m";
+    unsigned char* s = "ad2017.dev/mbr";
     while (*s != '\0') {
     asm volatile (
 			"mov	ah,0x0E\n"
